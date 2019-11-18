@@ -1601,6 +1601,7 @@
  *
  * :['JAPANESE', 'WESTERN', 'CYRILLIC']
  */
+//TODO: test as soon as new display arrives
 #define DISPLAY_CHARSET_HD44780 WESTERN//changed from JAPANESE
 
 /**
