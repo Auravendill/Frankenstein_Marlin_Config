@@ -716,7 +716,10 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 2560, 95 }//TODO
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 2560, 133 }
+//133 is from the configuration of the Prusa i3 Mk2S
+//my Frankenstein i3 clones its direct drive extruder
+//maybe this will need more fine tuning
 
 /**
  * Default Max Feed Rate (mm/s)
