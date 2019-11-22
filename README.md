@@ -7,3 +7,5 @@ The used Marlin version can be found here: <https://github.com/MarlinFirmware/Ma
 The STL files for the Prusa i3 Mk2S (and others) can be found here: <https://www.prusa3d.de/prusa-i3-druckbare/>
 
 The instructions for the Prusa i3 Mk2S can be found here: <https://manual.prusa3d.com/c/Original_Prusa_i3_MK2S_kit_Bauanleitung>
+
+The documentation of the SKR v1.3 can be found here: <https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3>
