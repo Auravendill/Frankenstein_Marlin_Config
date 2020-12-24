@@ -1,4 +1,4 @@
-MOVED TO: https://github.com/Auravendill/Marlin_Configurations/tree/main/Geeetech%20i3%20Pro%20W
+MOVED TO: https://github.com/Auravendill/Marlin_Configurations/tree/main/Frankenstein%20i3
 
 
 # Frankenstein_Marlin_Config
